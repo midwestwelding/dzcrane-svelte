@@ -14,6 +14,9 @@
     </div>
   </div>
 </div>
+<script context="module">
+  export const prerender = true
+</script>
 <style>
   #service {
     padding: 18px;

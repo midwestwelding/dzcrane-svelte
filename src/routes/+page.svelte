@@ -10,7 +10,9 @@
   title="D&Z Crane and Rigging"
   description="Insured and Certifed Operator, 240FT Stick with 100 Ton capacity. Serving All of Wisconsin."
 ></SvelteSEO>
-
+<script context="module">
+  export const prerender = true
+</script>
 <script>
   import NavRow from './../sections/nav.svelte'
   import HomeSection from './../sections/home.svelte'

@@ -1,6 +1,9 @@
 <div id="footer">
   <img alt="D&Z Crane Logo" src="dzcrane_logo.webp" />
 </div>
+<script context="module">
+  export const prerender = true
+</script>
 <style>
   #footer {
     text-align: center;

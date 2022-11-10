@@ -9,6 +9,9 @@
     </h1>
   </div>
 </div>
+<script context="module">
+  export const prerender = true
+</script>
 <style>
   .logo-container {
     width: 60%;

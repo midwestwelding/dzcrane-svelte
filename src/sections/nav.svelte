@@ -14,7 +14,9 @@
     <a href="#contact">Contact</a>
   </div>
 </nav>
-
+<script context="module">
+  export const prerender = true
+</script>
 <style>
   nav {
     position: fixed;

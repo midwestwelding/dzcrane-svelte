@@ -13,6 +13,9 @@
     <img alt="From inside the cockpit looking low" src="packed.webp" />
   </div>
 </div>
+<script context="module">
+  export const prerender = true
+</script>
 <style>
 #gallery {
   padding: 18px;

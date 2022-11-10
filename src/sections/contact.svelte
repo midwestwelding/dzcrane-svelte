@@ -35,6 +35,9 @@
     </div>
   </div>
 </div>
+<script context="module">
+  export const prerender = true
+</script>
 <style>
 #contact {
   padding: 18px;
